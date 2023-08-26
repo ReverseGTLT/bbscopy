@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bbscopy/static/css/main.f8cf12dc.css",
-    "main.js": "/bbscopy/static/js/main.3b3c4bd7.js",
+    "main.js": "/bbscopy/static/js/main.7a97d715.js",
     "static/media/oval.svg": "/bbscopy/static/media/oval.c647e0503d835cb93c95.svg",
     "static/media/getFetch.cjs": "/bbscopy/static/media/getFetch.40f37ddea2378391108f.cjs",
     "index.html": "/bbscopy/index.html",
     "main.f8cf12dc.css.map": "/bbscopy/static/css/main.f8cf12dc.css.map",
-    "main.3b3c4bd7.js.map": "/bbscopy/static/js/main.3b3c4bd7.js.map"
+    "main.7a97d715.js.map": "/bbscopy/static/js/main.7a97d715.js.map"
   },
   "entrypoints": [
     "static/css/main.f8cf12dc.css",
-    "static/js/main.3b3c4bd7.js"
+    "static/js/main.7a97d715.js"
   ]
 }
